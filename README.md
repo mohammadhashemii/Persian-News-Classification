@@ -4,8 +4,6 @@ This project was the fourth assignment of the computational intelligence course 
 
 # Dataset
 
-![](https://github.com/mohammadhashemii/Dogs-Breed-Classification/blob/master/sample-data.png)
-
 The dataset has been obtained from [The Kaggle page for this project](https://www.kaggle.com/c/computational-intelligence-course-final-project/data).It contains news texts of around 40 topices:
 
 1. Number of categories: ~ 40
